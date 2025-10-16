@@ -1,6 +1,6 @@
-title: 你的名字（中/英）
+title: Kaiwen Xia 夏凯文
 description: 个人主页 / Academic homepage
-url: ""
+url: https://ustiniankw.github.io
 
 theme: minima
 lang: zh-CN
@@ -10,6 +10,14 @@ header_pages:
   - index.md
   - publications.md
   - about.md
+
+author:
+  name: Kaiwen Xia
+  email: XiaKaiWenjoy@163.com
+  links:
+    - label: GitHub
+      icon: github
+      url: https://github.com/ustiniankw
 
 plugins:
   - jekyll-feed
