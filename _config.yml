@@ -1,0 +1,17 @@
+title: 你的名字（中/英）
+description: 个人主页 / Academic homepage
+url: ""
+
+theme: minima
+lang: zh-CN
+timezone: Asia/Shanghai
+
+header_pages:
+  - index.md
+  - publications.md
+  - about.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
